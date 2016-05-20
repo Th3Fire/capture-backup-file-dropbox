@@ -31,6 +31,7 @@ You should see this...
 ![setAPI](setAPI.jpg?raw=true "setAPI")
 
 Then, You need to visit this link https://www.dropbox.com/developers/apps (must logged in) and follow this
+
 1. Click ```Create app``` button
 2. Choose an API > ```Dropbox API
 3. Choose the type of access > App folder (up to you in my case I want access for some folder)
