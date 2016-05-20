@@ -61,9 +61,9 @@ credit image http://grimbodroid.blogspot.com/2012/08/following-directions-on-the
 2.Connect USB Web Cam to Raspberry Pi
 
 ## Run
-Please ensure your web cam must not run on another service.
+Please ensure your web cam must not run on another service and ```cd``` same directory with ```capture_dropbox.py```
 ```bash
-sudo python SW_capture.py 
+sudo python capture_dropbox.py
 ```
 
 ```Note``` press switch for capture photo.
