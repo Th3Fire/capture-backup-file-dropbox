@@ -28,7 +28,7 @@ cd Dropbox-Uploader
 
 Run the script with ```./dropbox_uploader.sh``` (if it fails, try chmod +x dropbox_uploader.sh)
 You should see this...
-![setAPI](setAPI.png?raw=true "setAPI")
+![setAPI](setAPI.jpg?raw=true "setAPI")
 
 Then, You need to visit this link https://www.dropbox.com/developers/apps (must logged in) and follow this
 1. Click ```Create app``` button
