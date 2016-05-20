@@ -40,6 +40,8 @@ Then, You need to visit this link https://www.dropbox.com/developers/apps (must 
 6. At Shell input your App key ```Enter``` 
 7. Once you've entered your keys and answered the question "app" or "full" your Pi will request an authorisation token and you will be given a web URL you need to visit to activate it and clink ```Allow``` If it works, you should see this in your browser… Success!
 
+![setAPI](http://raspi.tv/wp-content/uploads/2013/08/DropBox-3.jpg?raw=true "setAPI")
+
 ![setAPI](http://raspi.tv/wp-content/uploads/2013/08/DropBox-4.jpg?raw=true "setAPI")
 
 ## Prepair before run program
