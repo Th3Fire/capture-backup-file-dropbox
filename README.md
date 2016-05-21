@@ -67,3 +67,6 @@ sudo python capture_dropbox.py
 ```
 
 ```Note``` press switch for capture photo.
+
+## Reference
+http://raspi.tv/2013/how-to-use-dropbox-with-raspberry-pi
